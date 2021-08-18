@@ -1,4 +1,4 @@
-# README
+# Bookers2 <いいね機能、コメント機能なし>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
